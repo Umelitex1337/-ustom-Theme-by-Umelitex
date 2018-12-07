@@ -1,4 +1,4 @@
-@import url(https://omgdani.github.io/ClearVisionFixes/ClearVisionFixes.css);
+@import url(https://raw.githubusercontent.com/Umelitex1337/Custom-Theme-by-Umelitex/master/ThemeFix.css);
 .channels-wrap > [class*="container"]:last-child::after {
     content: "Custom Theme by Umelitex";
     color: #fff;
